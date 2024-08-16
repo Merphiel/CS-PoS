@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Orders>
+  <order>
+    <pile>
+      <Type>Frappe</Type>
+      <Date_and_Time>08/12/2022 09:08:06</Date_and_Time>
+      <Size>22 oz</Size>
+      <Sugar_level>50%</Sugar_level>
+      <Product_name>Vanilla Frappe</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>100</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Ice Blended Coffee</Type>
+      <Date_and_Time>08/12/2022 09:08:22</Date_and_Time>
+      <Size>22 oz</Size>
+      <Sugar_level>100%</Sugar_level>
+      <Product_name>Hazelnut Iced Blended Coffee</Product_name>
+      <Add-ons>TP CJ </Add-ons>
+      <Price>95</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Ice Blended Coffee</Type>
+      <Date_and_Time>08/12/2022 09:12:05</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Caramel Iced Blended Coffee</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>60</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Ice Blended Coffee</Type>
+      <Date_and_Time>08/12/2022 09:12:05</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Vanilla Iced Blended Coffee</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>60</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Ice Blended Coffee</Type>
+      <Date_and_Time>08/12/2022 09:12:06</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Classic Iced Blended Coffee</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>60</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Ice Blended Coffee</Type>
+      <Date_and_Time>08/12/2022 09:12:08</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Hazelnut Iced Blended Coffee</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>60</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Ice Blended Coffee</Type>
+      <Date_and_Time>08/12/2022 09:12:08</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Caramel Iced Blended Coffee</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>60</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+</Orders>

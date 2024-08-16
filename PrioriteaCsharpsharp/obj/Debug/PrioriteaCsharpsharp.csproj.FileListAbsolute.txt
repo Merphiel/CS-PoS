@@ -1,0 +1,14 @@
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\bin\Debug\PrioriteaCsharpsharp.exe.config
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\bin\Debug\PrioriteaCsharpsharp.exe
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\bin\Debug\PrioriteaCsharpsharp.pdb
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.csproj.AssemblyReference.cache
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.LogIn.resources
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.Properties.Resources.resources
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.csproj.GenerateResource.cache
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.csproj.CoreCompileInputs.cache
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.exe
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.pdb
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.logoutbtn.resources
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.Stuff.Order.resources
+C:\Users\agoma\source\repos\PrioriteaCsharpsharp\PrioriteaCsharpsharp\obj\Debug\PrioriteaCsharpsharp.Form1.resources

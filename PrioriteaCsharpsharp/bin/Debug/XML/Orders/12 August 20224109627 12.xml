@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Orders>
+  <order>
+    <pile>
+      <Type>Cheesecake Series</Type>
+      <Date_and_Time>08/12/2022 22:45:34</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Classic Milktea Cheesecake Series</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>90</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Cheesecake Series</Type>
+      <Date_and_Time>08/12/2022 22:45:34</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Blueberry Cheesecake Series</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>90</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Cheesecake Series</Type>
+      <Date_and_Time>08/12/2022 22:45:35</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Matcha Cheesecake Series</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>90</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+</Orders>

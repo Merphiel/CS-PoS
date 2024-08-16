@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Orders>
+  <order>
+    <pile>
+      <Type>Frappe</Type>
+      <Date_and_Time>08/12/2022 09:08:06</Date_and_Time>
+      <Size>22 oz</Size>
+      <Sugar_level>50%</Sugar_level>
+      <Product_name>Vanilla Frappe</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>100</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+</Orders>

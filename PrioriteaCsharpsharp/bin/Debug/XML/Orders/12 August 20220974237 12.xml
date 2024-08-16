@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Orders>
+  <order>
+    <pile>
+      <Type>Oreo Mix</Type>
+      <Date_and_Time>08/12/2022 22:51:30</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Special Oreo Mix</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>80</Price>
+      <User>admin</User>
+    </pile>
+  </order>
+</Orders>

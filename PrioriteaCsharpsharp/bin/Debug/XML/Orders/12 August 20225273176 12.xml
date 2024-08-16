@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Orders>
+  <order>
+    <pile>
+      <Type>Oreo Mix</Type>
+      <Date_and_Time>08/12/2022 10:51:56</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Supreme Oreo Mix</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>80</Price>
+      <User>marie</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Oreo Mix</Type>
+      <Date_and_Time>08/12/2022 10:51:56</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Supreme Oreo Mix</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>80</Price>
+      <User>marie</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Oreo Mix</Type>
+      <Date_and_Time>08/12/2022 10:51:57</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Taro Oreo Mix</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>80</Price>
+      <User>marie</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Oreo Mix</Type>
+      <Date_and_Time>08/12/2022 10:51:57</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Taro Oreo Mix</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>80</Price>
+      <User>marie</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Oreo Mix</Type>
+      <Date_and_Time>08/12/2022 10:51:58</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Okinawa Oreo Mix</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>80</Price>
+      <User>marie</User>
+    </pile>
+  </order>
+  <order>
+    <pile>
+      <Type>Oreo Mix</Type>
+      <Date_and_Time>08/12/2022 10:51:58</Date_and_Time>
+      <Size>16 oz</Size>
+      <Sugar_level>0%</Sugar_level>
+      <Product_name>Special Oreo Mix</Product_name>
+      <Add-ons>N/A</Add-ons>
+      <Price>80</Price>
+      <User>marie</User>
+    </pile>
+  </order>
+</Orders>
